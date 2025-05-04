@@ -1,0 +1,12 @@
+{
+    "name": "Ubuntu Dev Environment",
+    "dockerFile": "Dockerfile",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "ms-azuretools.vscode-docker",
+      "ms-python.python"
+    ]
+}
+  
